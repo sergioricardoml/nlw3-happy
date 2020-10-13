@@ -11,6 +11,10 @@
 # production
 /build
 
+# uploads
+uploads/*
+!uploads/.gitkeep
+
 # misc
 .DS_Store
 .env
